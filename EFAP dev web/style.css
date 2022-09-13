@@ -1,0 +1,169 @@
+h1 {color: #de3e14;;
+font-family: 'Zen Kaku Gothic Antique', sans-serif;text-align:center; }
+
+h2  {color: black; font-family: 'Zen Kaku Gothic Antique', sans-serif;
+text-align: left }
+
+h3 {color: black; font-family: 'Zen Kaku Gothic Antique', sans-serif; text-align: left}
+
+h4 {color: black; font-family: 'Zen Kaku Gothic Antique', sans-serif; text-align: left}
+
+
+
+
+
+
+.frame7{color: black;
+font-family: 'Zen Kaku Gothic Antique', sans-serif;text-align: center }
+
+.frame8{color: black;
+font-family: 'Zen Kaku Gothic Antique', sans-serif;text-align: center }
+
+
+
+.my-navbar {
+	display: flex;
+	justify-content: space-between;
+
+	align-items: center;
+	background: #de3e14;
+
+
+}
+
+.item {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.item {
+	margin: 10px 30px;
+	color: black;
+	font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+.item{
+	color: black;
+	font-family: 'Zen Kaku Gothic Antique', sans-serif;
+
+}
+	
+
+	body{ background: white;
+text-align: center;
+}
+.span-pink {color: white;}
+
+.frame {
+	border: 10px solid #de3e14;
+	margin: 100px;
+	padding: 30px;
+	border-radius: 5px;
+	box-shadow: 10px 10px 10px grey;
+}
+
+.framepink {
+	border: 10px solid #de3e14;
+	margin: 30px 10px;
+	padding: 10px;
+}
+
+.frame1 {
+	border: 10px solid #de3e14;
+	margin: 100px;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px grey;
+}
+
+
+.frame2 {
+	border: 10px solid #de3e14;
+	margin: 100px;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px grey;
+}
+
+
+.frametwo {
+	border: 10px solid #de3e14;
+	margin: 100px;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px grey;
+}
+
+h5 {font-family: 'Zen Kaku Gothic Antique', sans-serif;
+	color: black;
+	font-size: 16;
+
+}
+
+h6 {font-family: 'Zen Kaku Gothic Antique', sans-serif;
+	color: black;
+	font-size: 22;
+}
+
+ul {text-align: left;
+	color: black;
+}
+
+.frametree {
+	border: 10px solid #de3e14;
+	margin: 100px;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px grey;
+}
+ 
+ 
+
+
+}
+
+.line-transparent {
+  background: white;
+  width: 100%;
+  color : black ;
+  font-family: 'Indie Flower', cursive;
+  font-size : 30px;
+  text-align : center ;
+  margin : 10px 0px 10px 0px;
+  align-items: center;
+}
+
+ 
+
+.line-light {
+  height: 30px;
+  width: 100%;
+  background:rgb(225, 229, 234);
+}
+
+ 
+
+.line-medium {
+  height: 30px;
+  width: 100%;
+  background: rgb(218, 127, 143);
+}
+
+ 
+
+.line-hard {
+  height: 30px;
+  width: 100%;
+  background: rgb(250, 243, 243);
+
+a:hover{
+color:white;   
+}
+a, a: hover{
+	color: #d4e7d4;
+}
+
+
+
+
+
